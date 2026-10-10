@@ -46,7 +46,7 @@
 
 ## `outside_the_terminal` 🌒
 
-I like exploring new ideas, learning how technology fits together, and finding better ways to build things. The goal is not just to make code run—it's to understand the system behind it.
+𝙸 𝚕𝚒𝚔𝚎 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚒𝚍𝚎𝚊𝚜, 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚑𝚘𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚏𝚒𝚝𝚜 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛, 𝚊𝚗𝚍 𝚏𝚒𝚗𝚍𝚒𝚗𝚐 𝚋𝚎𝚝𝚝𝚎𝚛 𝚠𝚊𝚢𝚜 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚝𝚑𝚒𝚗𝚐𝚜. 𝚃𝚑𝚎 𝚐𝚘𝚊𝚕 𝚒𝚜 𝚗𝚘𝚝 𝚓𝚞𝚜𝚝 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚌𝚘𝚍𝚎 𝚛𝚞𝚗, 𝚒𝚝'𝚜 𝚝𝚘 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍 𝚝𝚑𝚎 𝚜𝚢𝚜𝚝𝚎𝚖 𝚋𝚎𝚑𝚒𝚗𝚍 𝚒𝚝.
 
 ## `explore` 📂
 
