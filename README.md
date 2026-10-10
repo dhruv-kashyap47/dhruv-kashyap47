@@ -9,7 +9,6 @@
 <a href="https://github.com/dhruv-kashyap47">
   <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000" alt="Explore GitHub repositories" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=dhruv-kashyap47&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
