@@ -36,11 +36,12 @@
 ## `engineering_principles` ⚡
 
 ```text
-Clarity over cleverness.
-Fundamentals over shortcuts.
-Working software over perfect plans.
-Small iterations over giant rewrites.
-Always leave things better than you found them.
+𝙲𝚕𝚊𝚛𝚒𝚝𝚢 𝚘𝚟𝚎𝚛 𝚌𝚘𝚖𝚙𝚕𝚎𝚡𝚒𝚝𝚢.
+𝙵𝚞𝚗𝚍𝚊𝚖𝚎𝚗𝚝𝚊𝚕𝚜 𝚘𝚟𝚎𝚛 𝚑𝚊𝚌𝚔𝚜.
+𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚘𝚟𝚎𝚛 𝚙𝚛𝚘𝚖𝚒𝚜𝚎𝚜.
+𝙿𝚛𝚘𝚐𝚛𝚎𝚜𝚜 𝚘𝚟𝚎𝚛 𝚙𝚎𝚛𝚏𝚎𝚌𝚝𝚒𝚘𝚗.
+𝚂𝚖𝚊𝚕𝚕 𝚠𝚒𝚗𝚜. 𝚁𝚎𝚕𝚎𝚗𝚝𝚕𝚎𝚜𝚜 𝚒𝚝𝚎𝚛𝚊𝚝𝚒𝚘𝚗.
+𝙱𝚞𝚒𝚕𝚍 𝚠𝚒𝚝𝚑 𝚒𝚗𝚝𝚎𝚗𝚝. 𝚂𝚑𝚒𝚙 𝚠𝚒𝚝𝚑 𝚙𝚞𝚛𝚙𝚘𝚜𝚎. 𝙻𝚎𝚊𝚟𝚎 𝚊 𝚋𝚎𝚝𝚝𝚎𝚛 𝚜𝚢𝚜𝚝𝚎𝚖 𝚋𝚎𝚑𝚒𝚗𝚍.
 ```
 
 ## `outside_the_terminal` 🌒
