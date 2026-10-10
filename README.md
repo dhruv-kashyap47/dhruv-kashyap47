@@ -16,12 +16,10 @@
 
 ## `whoami` 🔻
 
-I'm a developer who enjoys understanding how things work, solving real problems, and turning ideas into useful software.
+𝙸 𝚋𝚞𝚒𝚕𝚍 𝚋𝚎𝚢𝚘𝚗𝚍 𝚝𝚑𝚎 𝚑𝚊𝚙𝚙𝚢 𝚙𝚊𝚝𝚑.       
+𝙸 𝚝𝚑𝚒𝚗𝚔 𝚋𝚎𝚢𝚘𝚗𝚍 𝚝𝚑𝚎 𝚘𝚋𝚟𝚒𝚘𝚞𝚜.       
+𝙸 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚋𝚎𝚢𝚘𝚗𝚍 𝚕𝚘𝚌𝚊𝚕𝚑𝚘𝚜𝚝.
 
-- 🧠 **Mindset:** Stay curious, think from first principles, and keep learning.
-- ⚙️ **Interests:** Software engineering, backend systems, full-stack development, and applied AI.
-- 🧩 **Approach:** Understand the problem → build the simplest useful solution → iterate.
-- 🛠️ **Focus:** Readable code, practical engineering, and products that solve actual problems.
 
 ## `toolbox` 🧰
 
