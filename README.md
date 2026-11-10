@@ -36,12 +36,9 @@
 ## `engineering_principles` ⚡
 
 ```text
-𝘊𝘭𝘢𝘳𝘪𝘵𝘺 𝘰𝘷𝘦𝘳 𝘤𝘰𝘮𝘱𝘭𝘦𝘹𝘪𝘵𝘺.  
-𝘍𝘶𝘯𝘥𝘢𝘮𝘦𝘯𝘵𝘢𝘭𝘴 𝘰𝘷𝘦𝘳 𝘩𝘢𝘤𝘬𝘴.  
-𝘗𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯 𝘰𝘷𝘦𝘳 𝘱𝘳𝘰𝘮𝘪𝘴𝘦𝘴.  
-𝘗𝘳𝘰𝘨𝘳𝘦𝘴𝘴 𝘰𝘷𝘦𝘳 𝘱𝘦𝘳𝘧𝘦𝘤𝘵𝘪𝘰𝘯.  
-𝘚𝘮𝘢𝘭𝘭 𝘸𝘪𝘯𝘴. 𝘙𝘦𝘭𝘦𝘯𝘵𝘭𝘦𝘴𝘴 𝘪𝘵𝘦𝘳𝘢𝘵𝘪𝘰𝘯.  
-𝘉𝘶𝘪𝘭𝘥 𝘸𝘪𝘵𝘩 𝘪𝘯𝘵𝘦𝘯𝘵. 𝘚𝘩𝘪𝘱 𝘸𝘪𝘵𝘩 𝘱𝘶𝘳𝘱𝘰𝘴𝘦. 𝘓𝘦𝘢𝘷𝘦 𝘢 𝘣𝘦𝘵𝘵𝘦𝘳 𝘴𝘺𝘴𝘵𝘦𝘮 𝘣𝘦𝘩𝘪𝘯𝘥.
+Build with intent.
+Break with curiosity.
+Fix with precision.
 ```
 
 ## `outside_the_terminal` 🌒
@@ -66,6 +63,5 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,50:8B0000,100:190000&height=110&section=footer" alt="Crimson footer" />
 
-<sub>वीर भोग्या वसुंधरा</sub>
 
 </div>
